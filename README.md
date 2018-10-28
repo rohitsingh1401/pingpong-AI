@@ -23,5 +23,5 @@ Run it in the terminal. it will take time to learn by hit and trials so the more
 
 ##Credits
 
-This code was by [malreddysid](https://github.com/malreddysid) i've just wrappedand updated  it. its a very cool thing to do . 
+This code was by [malreddysid](https://github.com/malreddysid) i've just summarised and updated  it. it's a very cool thing to do . 
 
