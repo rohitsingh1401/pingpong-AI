@@ -1,8 +1,7 @@
-# pong_neural_net_live
+# pingpong-AI
 
 ##Overview
-This is the code for the Live [Youtube](https://www.youtube.com/watch?v=Hqf__FlRlzg) session by @Sirajology. In this live session I build
-the game of [Pong](http://www.ponggame.org) from scratch. Then I build a [Deep Q Network](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work) that gets better and better over time through trial and error. The DQN is a convolutional neural network that reads in pixel data from the game and the game score. Using just those 2 parameters, it learns what moves it needs to make to become better.
+it's a  game of [Pong](http://www.ponggame.org)  made from scratch after building a [Deep Q Network](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work) which gets better over time through trial and error. The DQN is a convolutional neural network that reads in pixel data from the game and the game score. Using just those 2 parameters, it learns what moves it needs to make to become better.
 
 ##Installation
 
@@ -18,13 +17,11 @@ use [pip](https://pypi.python.org/pypi/pip) to install the dependencies. Tensorf
 
 ##Usage 
 
-Run it like this in terminal. The longer you let it run, the better it will get.
+Run it in the terminal. it will take time to learn by hit and trials so the more you let it run the more efficient it becomes after sometime.
 
-```
-python RL.py
-```
+
 
 ##Credits
 
-This code was by [malreddysid](https://github.com/malreddysid) i've merely wrapped, updated, and documented it. 
+This code was by [malreddysid](https://github.com/malreddysid) i've just wrappedand updated  it. its a very cool thing to do . 
 
