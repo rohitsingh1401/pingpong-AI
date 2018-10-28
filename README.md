@@ -1,7 +1,7 @@
 # pingpong-AI
 
 ##Overview
-it's a  game of [Pong](http://www.ponggame.org)  made from scratch after building a [Deep Q Network](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work) which gets better over time through trial and error. The DQN is a convolutional neural network that reads in pixel data from the game and the game score. Using just those 2 parameters, it learns what moves it needs to make to become better.
+it's a  game of [Pong](http://www.ponggame.org)  made from scratch after building a [Deep Q Network](used in making games(https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work)) which gets better over time through trial and error. The DQN is a convolutional neural network that reads in pixel data from the game and the game score. Using just those 2 parameters, it learns what moves it needs to make to become better.
 
 ##Installation
 
